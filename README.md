@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there 👋 I'm Abhishek Bachke
 
-<!--
-**Abhishekbachke/Abhishekbachke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing my engineering degree at **HKBK College of Engineering**.  
+📊 Aspiring **Data Analyst** passionate about turning data into actionable insights.  
+🔍 Interested in **data visualization, business intelligence, and machine learning**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+
+- **Languages:** Python, SQL, R (beginner)
+- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Tools:** Excel, Power BI, Tableau, Jupyter Notebook, VS Code
+- **Databases:** MySQL, PostgreSQL
+
+---
+
+### 📈 What I'm Working On
+
+- Improving my **data analysis** and **visualization** skills  
+- Building real-world **data projects** and sharing them on GitHub  
+- Learning **Power BI** and **Tableau** for dashboard development
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn]() 
